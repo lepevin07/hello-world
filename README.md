@@ -11,3 +11,5 @@ Work now in branch new_test_branch_workflow
 Work now in branch another_test_branch_workflow
 
 Test_01 wrt. workflow_with_rebasage_applied_to_cdn_auto
+
+Test_02 wrt. workflow_with_rebasage_applied_to_cdn_auto
